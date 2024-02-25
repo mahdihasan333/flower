@@ -1,0 +1,257 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  background-color: rgba(255, 192, 203, 0.411);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0px;
+  height: 90vh;
+}
+
+h1 {
+  font-size: 40px;
+  top: 50px;
+  line-height: 20px;
+}
+
+p {
+  color: dimgray;
+}
+
+.half_width {
+  width: 40%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  padding-left: 2%;
+  float: left;
+}
+
+.half_width img {
+  width: 75%;
+}
+
+.link {
+  text-decoration: none;
+  background:tomato;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+}
+
+.link:hover {
+  text-decoration: none;
+  background: none;
+  border: 1.5px solid red;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: black;
+  font-weight: 700;
+}
+
+
+/* second section */
+/* .container_2 {
+  position: relative;
+  align-items: center;
+}
+
+.box {
+  height: 300px;
+  width: 300px;
+  background: pink;
+  border-top-right-radius: 50%;
+  border-top-left-radius: 50%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.box img {
+  width: 70%;
+  display: inline;
+  
+} */
+
+
+   /* third section */
+
+/* .third_sec {
+  height: 400px;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  background: rgb(199, 188, 188);
+  display: flex;
+  align-items: center;
+  position: relative;
+
+}
+
+.box {
+  display: inline;
+}
+
+.num_1 , .num_2 , .num_3{
+  position: relative;;
+  justify-content: center;
+  align-items: center;
+  display: inline;
+} */
+
+
+
+/* four section */
+
+
+.container_4 {
+  background-color: rgba(255, 192, 203, 0.411);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  top: 0px;
+  height: 90vh;
+}
+
+.container_4 .half_width P {
+  text-align: center;
+}
+
+.link_4 {
+  text-decoration: none;
+  background:tomato;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+  position: relative;
+  left: 200px;
+}
+
+.link_4:hover {
+  text-decoration: none;
+  background: none;
+  border: 1.5px solid red;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: black;
+  font-weight: 700;
+}
+
+
+/* five section */
+
+
+
+
+/* six section */
+
+.sec-6 {
+  height: 400px;
+  width: 100%;
+  background-color: #DDD;
+  top: 0px;
+}
+
+.sec-6 .text {
+  width: 80%;
+  height: 250px;
+  background: url(image/Rectangle\ 9.png);
+  border-radius: 8px;
+  position: relative;
+  top: 70px;
+  margin: auto;
+  text-align: center;
+}
+
+.sec-6 .text .first {
+  justify-content: center;
+
+}
+
+.sec-6 .text .first h1 {
+  position: relative;
+  top: 50px;
+}
+
+.sec-6 .text .first p {
+  position: relative;
+  top: 53px;
+}
+
+.sec-6 .text .first input {
+  position: relative;
+  top: 70px;
+  padding: 10px 80px;
+  color: white;
+  text-align: left;
+  border-radius: 8px;
+  border: none;
+  
+}
+
+.sec-6 .text .first button {
+  position: relative;
+  top: 70px;
+}
+
+.Subscribe {
+  text-decoration: none;
+  background:tomato;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: white;
+  font-weight: 700;
+  border: none;
+}
+
+.Subscribe:hover {
+  text-decoration: none;
+  background: none;
+  border: 1.5px solid red;
+  padding: 10px 15px;
+  border-radius: 8px;
+  color: black;
+  font-weight: 700;
+  
+} 
+
+ .sec-6 .text .first p {
+  text-align: center;
+}
+
+
+/* footer section */
+
+.foot {
+  height: 350px;
+  width: 100%;
+  background: black;
+}
+
+.foot-2 {
+  margin: auto;
+  height: 200px;
+  width: 450px;
+  color: white;
+  position: relative;
+  top: 50px ;
+}
+
+.foot-2 h1 {
+  text-align: center;
+}
+
+footer {
+  font-size: 12px;
+  text-align: center;
+}
